@@ -3,7 +3,7 @@
 // @author      KaXaSA
 // @namespace   steamgiftmobilecss
 // @include     *steamgifts.com*
-// @version     1.0
+// @version     1.2
 // @downloadURL	https://github.com/KaXaSA/SteamgiftsMOB/blob/master/Steamgifts%20CSS%20Mobile%202.user.js
 // @updateURL	https://github.com/KaXaSA/SteamgiftsMOB/blob/master/Steamgifts%20CSS%20Mobile%202.user.js
 // @grant       GM_addStyle
